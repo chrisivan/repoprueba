@@ -1,2 +1,3 @@
 Primer archivo
+--hacemos de cuenta que aca hay un comentario sql
 que se va a remoto
